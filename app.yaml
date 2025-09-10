@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: tornikenet-cdn
+owner: torniketsiklauri01
+package: .
